@@ -1,0 +1,18 @@
+{
+    "name": "Pearls.Ch18.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Pearls.Ch18.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

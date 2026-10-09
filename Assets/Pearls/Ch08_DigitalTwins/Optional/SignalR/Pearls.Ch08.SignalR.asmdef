@@ -1,0 +1,16 @@
+{
+    "name": "Pearls.Ch08.SignalR",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PEARLS_SIGNALR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

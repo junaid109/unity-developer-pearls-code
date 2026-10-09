@@ -1,0 +1,24 @@
+{
+    "name": "Pearls.Ch04.MetaXR",
+    "rootNamespace": "",
+    "references": [
+        "Oculus.VR"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PEARLS_METAXR"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.meta.xr.sdk.core",
+            "expression": "",
+            "define": "PEARLS_METAXR"
+        }
+    ],
+    "noEngineReferences": false
+}

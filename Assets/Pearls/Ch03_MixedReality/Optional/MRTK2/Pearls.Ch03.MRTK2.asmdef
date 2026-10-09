@@ -1,0 +1,25 @@
+{
+    "name": "Pearls.Ch03.MRTK2",
+    "rootNamespace": "",
+    "references": [
+        "Microsoft.MixedReality.Toolkit",
+        "Microsoft.MixedReality.Toolkit.SDK"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PEARLS_MRTK2"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.microsoft.mixedreality.toolkit.foundation",
+            "expression": "2.0.0",
+            "define": "PEARLS_MRTK2"
+        }
+    ],
+    "noEngineReferences": false
+}
